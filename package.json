@@ -1,0 +1,14 @@
+{
+  "name": "pycofa-react-hooks",
+  "version": "1.0.0",
+  "description": "Library of react hooks",
+  "main": "index.ts",
+  "repository": "pycofa.fr",
+  "author": "Jeremy CHAPUY - Pycofa Studio",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.64.0"
+  }
+}
