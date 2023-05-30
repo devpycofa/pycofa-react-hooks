@@ -16,6 +16,10 @@ To install this project in your application, run the following command:
 npm install git+https://github.com/devpycofa/pycofa-react-hooks
 ```
 
+```bash
+yarn add git+https://github.com/devpycofa/pycofa-react-hooks
+```
+
 ## Changelog
 
 ### 1.0.0 (30/05/2023)
